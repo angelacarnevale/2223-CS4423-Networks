@@ -1,0 +1,43 @@
+1	DG Wed CF NP FT 
+2	DG Wed BCS FT 
+3	DG Wed Sand HB Mand FT NP 
+4	DG FT NP 
+5	DG FT NP 
+6	Wed Mand FT 
+7	BCS FT 
+8	DG Wed HB FT NP 
+9	FT DG NP 
+10	DG Wed CF NP FT 
+11	BCS FT 
+12	FT BCS HB 
+13	DG NP 
+14	DG Wed Mand 
+15	DG Wed BCS HB FT 
+16	DG FT Mand HB BCS Sand 
+17	RoP Sand Mand HB 
+18	DG Wed Sand HB FT NP 
+19	BCS HB Mand FT 
+20	Wed BCS HB Mand 
+21	DG Bear Wed FT NP 
+22	DG RoP BCS HB FT NP 
+23	DG Wed Mand FT Sand 
+24	DG HB FT 
+25	RoP Mand FT 
+26	DG FT Mand Wed 
+27	BCS Mand FT 
+28	DG HB FT NP 
+29	Mand RoP 
+30	DG 
+31	DG Wed FT 
+32	Wed FT NP 
+33	NP FT HB BCS DG 
+34	DG Wed FT NP 
+35	DG FT NP 
+36	DG FT NP 
+37	DG RoP FT NP 
+38	BCS 
+39	FT DG 
+40	BCS Mand FT 
+41	FT 
+42	RoP Sand BCS FT 
+43	FT HB BCS 
