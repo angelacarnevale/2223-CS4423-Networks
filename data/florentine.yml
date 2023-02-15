@@ -57,90 +57,105 @@ _adj:
     Ridolfi: *id020
 _node: &id022
   Acciaiuoli:
+    $C_i^C$: 0.3684210526315789
     $C_i^D$: 0.06666666666666667
     $C_i^E$: 0.1321573195285342
     degree: 1
     priorates: 53
     wealth: 10
   Albizzi:
+    $C_i^C$: 0.4827586206896552
     $C_i^D$: 0.2
     $C_i^E$: 0.2439605296754477
     degree: 3
     priorates: 65
     wealth: 36
   Barbadori:
+    $C_i^C$: 0.4375
     $C_i^D$: 0.13333333333333333
     $C_i^E$: 0.2117057470647985
     degree: 2
     priorates: n/a
     wealth: 55
   Bischeri:
+    $C_i^C$: 0.4
     $C_i^D$: 0.2
     $C_i^E$: 0.2827943958713356
     degree: 3
     priorates: 12
     wealth: 44
   Castellani:
+    $C_i^C$: 0.3888888888888889
     $C_i^D$: 0.2
     $C_i^E$: 0.2590200378423514
     degree: 3
     priorates: 22
     wealth: 20
   Ginori:
+    $C_i^C$: 0.3333333333333333
     $C_i^D$: 0.06666666666666667
     $C_i^E$: 0.0749245316027793
     degree: 1
     priorates: n/a
     wealth: 32
   Guadagni:
+    $C_i^C$: 0.4666666666666667
     $C_i^D$: 0.26666666666666666
     $C_i^E$: 0.2891171573226501
     degree: 4
     priorates: 21
     wealth: 8
   Lamberteschi:
+    $C_i^C$: 0.32558139534883723
     $C_i^D$: 0.06666666666666667
     $C_i^E$: 0.08879253113499548
     degree: 1
     priorates: 0
     wealth: 42
   Medici:
+    $C_i^C$: 0.56
     $C_i^D$: 0.4
     $C_i^E$: 0.4303154258349923
     degree: 6
     priorates: 53
     wealth: 103
   Pazzi:
+    $C_i^C$: 0.2857142857142857
     $C_i^D$: 0.06666666666666667
     $C_i^E$: 0.044814939703863084
     degree: 1
     priorates: n/a
     wealth: 48
   Peruzzi:
+    $C_i^C$: 0.3684210526315789
     $C_i^D$: 0.2
     $C_i^E$: 0.2757224374104833
     degree: 3
     priorates: 42
     wealth: 49
   Ridolfi:
+    $C_i^C$: 0.5
     $C_i^D$: 0.2
     $C_i^E$: 0.3415544259074365
     degree: 3
     priorates: 38
     wealth: 27
   Salviati:
+    $C_i^C$: 0.3888888888888889
     $C_i^D$: 0.13333333333333333
     $C_i^E$: 0.14592084164171834
     degree: 2
     priorates: 35
     wealth: 10
   Strozzi:
+    $C_i^C$: 0.4375
     $C_i^D$: 0.26666666666666666
     $C_i^E$: 0.3559730326460451
     degree: 4
     priorates: 74
     wealth: 146
   Tornabuoni:
+    $C_i^C$: 0.4827586206896552
     $C_i^D$: 0.2
     $C_i^E$: 0.325846704169574
     degree: 3
